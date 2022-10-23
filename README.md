@@ -25,7 +25,7 @@ A toy API for querying articles by keywords using GNews.
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file based on the `env_example`:
+4. Create a `.env` file based on the `env_example`
    
 5. Start the website status check collection, write and trigger as separate process:
    ```bash
