@@ -1,0 +1,7 @@
+fastapi
+pydantic
+fastapi-cache2
+uvicorn
+httpx
+invoke>=1.7.3
+pip-tools
